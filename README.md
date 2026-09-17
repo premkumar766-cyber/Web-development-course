@@ -1,8 +1,8 @@
 # 🚀 Full Stack Web Development - Coursework
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/shinchan2222/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/shinchan2222/Full-Stack-Coursework)
+[![GitHub repo size](https://img.shields.io/github/repo-size/shinchan2222/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/premkumar766-cyber/Web-development-Course)
 [![Mentored by](https://img.shields.io/badge/Mentored%20by-@Vimal4hckr-blueviolet?style=for-the-badge&logo=github)](https://github.com/Vimal4hckr)
-[![Author](https://img.shields.io/badge/Author-shinchan2222-brightgreen?style=for-the-badge&logo=github)](https://github.com/shinchan2222)
+[![Author](https://img.shields.io/badge/Author-premkumar766-cyber-brightgreen?style=for-the-badge&logo=github)](https://github.com/premkumar766-cyber)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)](#curriculum-roadmap)
 
 Welcome to my central repository for my **Full Stack Web Development** journey! This repository documents my step-by-step learning progression, hands-on coding exercises, modular practice work, and interactive projects mentored by **[@Vimal4hckr](https://github.com/Vimal4hckr)**.
@@ -204,5 +204,5 @@ To explore or run any of the practice modules and projects locally:
 
 ## 👨‍💻 Author & Acknowledgments
 
-- **Developer:** [shinchan2222](https://github.com/shinchan2222)
+- **Developer:** [shinchan2222](https://github.com/premkumar766-cyber)
 - **Mentor:** Special thanks to **[@Vimal4hckr](https://github.com/Vimal4hckr)** for continuous mentorship, technical guidance, and curriculum design.
