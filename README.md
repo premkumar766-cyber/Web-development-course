@@ -204,5 +204,5 @@ To explore or run any of the practice modules and projects locally:
 
 ## 👨‍💻 Author & Acknowledgments
 
-- **Developer:** [shinchan2222](https://github.com/premkumar766-cyber)
+- **Developer:** [premkumar766-cyber](https://github.com/premkumar766-cyber)
 - **Mentor:** Special thanks to **[@Vimal4hckr](https://github.com/Vimal4hckr)** for continuous mentorship, technical guidance, and curriculum design.
