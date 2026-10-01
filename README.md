@@ -2,7 +2,7 @@
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/premkumar766-cyber/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/premkumar766-cyber/Web-development-Course)
 [![Mentored by](https://img.shields.io/badge/Mentored%20by-@Vimal4hckr-blueviolet?style=for-the-badge&logo=github)](https://github.com/Vimal4hckr)
-[![Author](https://img.shields.io/badge/Author-premkumar766-cyber-brightgreen?style=for-the-badge&logo=github)](https://github.com/premkumar766-cyber)
+[![Author](https://img.shields.io/badge/Author-premkumar766_%5Bcyber%5D-brightgreen?style=for-the-badge&logo=github)](https://github.com/premkumar766-cyber)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)](#curriculum-roadmap)
 
 Welcome to my central repository for my **Full Stack Web Development** journey! This repository documents my step-by-step learning progression, hands-on coding exercises, modular practice work, and interactive projects mentored by **[@Vimal4hckr](https://github.com/Vimal4hckr)**.
