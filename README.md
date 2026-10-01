@@ -1,6 +1,6 @@
 # 🚀 Full Stack Web Development - Coursework
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/shinchan2222/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/premkumar766-cyber/Web-development-Course)
+[![GitHub repo size](https://img.shields.io/github/repo-size/premkumar766-cyber/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/premkumar766-cyber/Web-development-Course)
 [![Mentored by](https://img.shields.io/badge/Mentored%20by-@Vimal4hckr-blueviolet?style=for-the-badge&logo=github)](https://github.com/Vimal4hckr)
 [![Author](https://img.shields.io/badge/Author-premkumar766-cyber-brightgreen?style=for-the-badge&logo=github)](https://github.com/premkumar766-cyber)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)](#curriculum-roadmap)
@@ -185,7 +185,7 @@ To explore or run any of the practice modules and projects locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shinchan2222/Full-Stack-Coursework.git
+   git clone https://github.com/premkumar766-cyber/Full-Stack-Coursework.git
    ```
 
 2. **Navigate into the project directory:**
